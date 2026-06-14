@@ -14,3 +14,7 @@ out
 dist
 **/.DS_Store
 .nrepl-port
+
+# Dolt database files (added by bd init)
+.dolt/
+*.db
